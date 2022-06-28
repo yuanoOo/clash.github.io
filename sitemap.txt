@@ -11,10 +11,10 @@ http://clashdingyue.tk/link/index.html
 http://clashdingyue.tk/categories/index.html
 http://clashdingyue.tk/tags/index.html
 http://clashdingyue.tk/
-http://clashdingyue.tk/tags/dns/
 http://clashdingyue.tk/tags/CDN/
 http://clashdingyue.tk/tags/hexo/
 http://clashdingyue.tk/tags/cloudflare/
+http://clashdingyue.tk/tags/dns/
 http://clashdingyue.tk/tags/SEO/
 http://clashdingyue.tk/tags/WSL/
 http://clashdingyue.tk/tags/Linxu/
@@ -22,8 +22,8 @@ http://clashdingyue.tk/tags/typora/
 http://clashdingyue.tk/tags/github-pages/
 http://clashdingyue.tk/tags/CFW/
 http://clashdingyue.tk/tags/%E7%BD%91%E6%98%93%E4%BA%91/
-http://clashdingyue.tk/categories/dns/
 http://clashdingyue.tk/categories/hexo/
+http://clashdingyue.tk/categories/dns/
 http://clashdingyue.tk/categories/SEO/
 http://clashdingyue.tk/categories/WSL/
 http://clashdingyue.tk/categories/linux/
