@@ -1,18 +1,8 @@
 ---
 title: 免费订阅分享
-tags:
-  - '订阅分享'
-  - '科学上网'
-  - 'clash-SSR-V2Ray'
-categories:
-  - [订阅分享]
 date: 2022-06-29 17:00:30
-updated: 2022-06-29 17:00:30
-cover:
 top_img:
-description:
-layout: dingyue
-keywords:
+type: dingyue
 ---
 
 # 🎉🎉🎉永久订阅链接（长期有效）
