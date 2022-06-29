@@ -1,0 +1,17 @@
+- class_name: 友情链接
+  class_desc: 那些人，那些事
+  link_list:
+    - name: 破晓
+      link: https://poxiao.tk/
+      avatar: https://poxiao.tk/img/bg/avatar.webp
+      descr: 日拱一卒，功不唐捐
+
+# - class_name: 网站
+#   class_desc: 值得推荐的网站
+#   link_list:
+#     - name: Youtube
+#       link: https://www.youtube.com/
+#       avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
+#       descr: 视频网站
+
+
