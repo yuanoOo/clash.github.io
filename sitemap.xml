@@ -117,6 +117,27 @@
   </url>
   
   <url>
+    <loc>http://clashdingyue.tk/tags/CDN/</loc>
+    <lastmod>2022-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://clashdingyue.tk/tags/hexo/</loc>
+    <lastmod>2022-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://clashdingyue.tk/tags/cloudflare/</loc>
+    <lastmod>2022-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://clashdingyue.tk/tags/SEO/</loc>
     <lastmod>2022-06-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -145,13 +166,6 @@
   </url>
   
   <url>
-    <loc>http://clashdingyue.tk/tags/hexo/</loc>
-    <lastmod>2022-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://clashdingyue.tk/tags/github-pages/</loc>
     <lastmod>2022-06-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -160,20 +174,6 @@
   
   <url>
     <loc>http://clashdingyue.tk/tags/CFW/</loc>
-    <lastmod>2022-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://clashdingyue.tk/tags/CDN/</loc>
-    <lastmod>2022-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://clashdingyue.tk/tags/cloudflare/</loc>
     <lastmod>2022-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -196,6 +196,13 @@
   </url>
   
   <url>
+    <loc>http://clashdingyue.tk/categories/hexo/</loc>
+    <lastmod>2022-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://clashdingyue.tk/categories/SEO/</loc>
     <lastmod>2022-06-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -204,13 +211,6 @@
   
   <url>
     <loc>http://clashdingyue.tk/categories/WSL/</loc>
-    <lastmod>2022-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://clashdingyue.tk/categories/hexo/</loc>
     <lastmod>2022-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
