@@ -2,27 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://clashdingyue.tk/2022/06/gongyi-emby/</loc>
+    
+    <lastmod>2022-06-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clashdingyue.tk/2022/06/dingyue/dingyue1/</loc>
+    
+    <lastmod>2022-06-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://clashdingyue.tk/dingyue/index.html</loc>
+    
+    <lastmod>2022-06-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://clashdingyue.tk/2022/06/zhihu-emo-yulu/</loc>
     
     <lastmod>2022-06-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://clashdingyue.tk/2022/06/Hexo-github-pages-CloudFlare%E5%85%8D%E8%B4%B9CDN%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/</loc>
-    
-    <lastmod>2022-06-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://clashdingyue.tk/2022/06/DNS%E6%9F%A5%E8%AF%A2/</loc>
-    
-    <lastmod>2022-06-27</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -74,28 +83,7 @@
 
   
   <url>
-    <loc>http://clashdingyue.tk/tags/hexo/</loc>
-    <lastmod>2022-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://clashdingyue.tk/tags/dns/</loc>
-    <lastmod>2022-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://clashdingyue.tk/tags/CDN/</loc>
-    <lastmod>2022-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://clashdingyue.tk/tags/cloudflare/</loc>
+    <loc>http://clashdingyue.tk/tags/Emby%E5%85%AC%E7%9B%8A%E6%9C%8D/</loc>
     <lastmod>2022-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -108,17 +96,31 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>http://clashdingyue.tk/categories/hexo/</loc>
+    <loc>http://clashdingyue.tk/tags/%E8%AE%A2%E9%98%85%E5%88%86%E4%BA%AB/</loc>
     <lastmod>2022-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://clashdingyue.tk/categories/dns/</loc>
+    <loc>http://clashdingyue.tk/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</loc>
+    <lastmod>2022-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://clashdingyue.tk/tags/clash-SSR-V2Ray/</loc>
+    <lastmod>2022-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>http://clashdingyue.tk/categories/Emby/</loc>
     <lastmod>2022-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -132,7 +134,7 @@
   </url>
   
   <url>
-    <loc>http://clashdingyue.tk/categories/linux/</loc>
+    <loc>http://clashdingyue.tk/categories/%E8%AE%A2%E9%98%85%E5%88%86%E4%BA%AB/</loc>
     <lastmod>2022-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
