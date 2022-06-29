@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://clashdingyue.tk/2022/06/zhihu-emo-yulu/</loc>
+    
+    <lastmod>2022-06-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://clashdingyue.tk/dingyue/index.html</loc>
     
     <lastmod>2022-06-29</lastmod>
@@ -23,15 +32,6 @@
     <loc>http://clashdingyue.tk/2022/06/dingyue/dingyue1/</loc>
     
     <lastmod>2022-06-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://clashdingyue.tk/2022/06/zhihu-emo-yulu/</loc>
-    
-    <lastmod>2022-06-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
