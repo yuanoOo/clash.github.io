@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://clashdingyue.tk/about/index.html</loc>
+    
+    <lastmod>2022-06-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://clashdingyue.tk/2022/06/%E6%AD%A3%E7%A1%AE%E9%85%8D%E7%BD%AEClash-For-Windows/</loc>
     
     <lastmod>2022-06-30</lastmod>
@@ -41,15 +50,6 @@
     <loc>http://clashdingyue.tk/2022/06/dingyue/dingyue1/</loc>
     
     <lastmod>2022-06-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://clashdingyue.tk/about/index.html</loc>
-    
-    <lastmod>2022-06-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
