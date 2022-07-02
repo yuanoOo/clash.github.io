@@ -449,12 +449,16 @@ microsoft_clarity:
 
 # Google Adsense (谷歌廣告)
 google_adsense:
-  enable: false
+  enable: true
   auto_ads: true
-  js: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+  js: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6838336925474374
   client:
   enable_page_level_ads: true
 
+
+# 主题预留了三个位置可供插入广告，分别为主页文章 (每三篇文章出现广告)/aside 公告之后 / 文章页打赏之后。，把 html 代码填写到对应的位置
+# 例如：
+# index: <ins class="adsbygoogle" style="display:block" data-ad-format="fluid" data-ad-layout-key="xxxxxxxxxxxx" data-ad-client="ca-pub-xxxxxxxxxx" data-ad-slot="xxxxxxxxxx"></ins><script>(adsbygoogle=window.adsbygoogle||[]).push({})</script>
 # Insert ads manually (手動插入廣告)
 # ad:
 #   index:
