@@ -42,5 +42,7 @@ type: dingyue
 --------------------------
 
 # 🎉🎉🎉机场订阅链接
+2022年7月
+- https://xn--h6q53lcvpz7l.club/api/v1/client/subscribe?token=1d0efe0930b143a56f7adb1aae984701
 
 - https://www.fengcheyun.xyz/api/v1/client/subscribe?token=da82b2985d21cb36bd277692bb9f94f6
